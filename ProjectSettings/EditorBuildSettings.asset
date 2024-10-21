@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameScene_MiniGameRiverResuce.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 35911ca1e02aee84187c53a2024d77fe,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8335fe415baca5b45aebe3c4f76c0821,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fe4582e9d352b7640bc0bf6f7dfa0d09,
+      type: 2}
